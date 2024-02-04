@@ -1,0 +1,45 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.box {
+  border: 2px solid black;
+  padding: 3px;
+  display: inline-block;
+  box-shadow: 0 5px 10px;
+}
+table {
+  border: 2px solid #000000;
+  text-align: center;
+  background-color: cornsilk;
+}
+td {
+  text-align: center;
+  padding: 2px;
+}
+.title {
+  text-align: justify;
+}
+.but {
+  height: 55px;
+  width: 80px;
+  font-size: 30px;
+  color: whitesmoke;
+  background-color: #000000;
+  border-radius: 5px;
+}
+#op {
+  background-color: gold;
+  color: black;
+}
+#clean {
+  color: white;
+  background-color: blue;
+}
+input {
+  width: 260px;
+  height: 55px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 30px;
+}
